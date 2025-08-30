@@ -8,7 +8,7 @@ export default defineConfig({
     open: true
   },
   build: {
-    outDir: 'docs', // Changed from 'dist' to 'docs' for GitHub Pages
+    outDir: 'dist', // Changed from 'dist' to 'docs' for GitHub Pages
     assetsDir: 'assets',
     sourcemap: false
   },
